@@ -1,2 +1,2 @@
-# Aula_c\#_0
+# Aula_C\#_0
 Qui c'è la descrizione
