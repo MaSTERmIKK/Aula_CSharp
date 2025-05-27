@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 // Singleton: Logger di sistema
-public class Logger
+public sealed class Logger
 {
     private static Logger istanza;
     private Logger() { }
